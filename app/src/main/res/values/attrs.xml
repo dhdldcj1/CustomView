@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="attr_set">
+        <attr name="fontIconFile" format="enum"></attr>
+        <attr name="fontIconStyle" format="string"></attr>
+        <attr name="fontSize" format="dimension"></attr>
+        <attr name="fontColor" format="color"></attr>
+    </declare-styleable>
+</resources>
