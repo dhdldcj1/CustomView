@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="style_solid">fa-solid-900.ttf</string>
+    <string name="style_regular">fa-regular-400.ttf</string>
+    <string name="style_brands">fa-brands-400.ttf</string>
+    <string name="fa_solid_mobile_alt">&#xf3cd;</string>
+    <string name="fa_brands_angrycreative">&#xf36e;</string>
+    <string name="fa_regular_bell">&#xf0f3;</string>
+    <!--references https://fontawesome.com/-->
+</resources>
